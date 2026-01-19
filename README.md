@@ -64,7 +64,7 @@ end
 and Switch!
 ```c
 switch <this> then
-    where <case> execute
+    when <case> execute
         ...
     default execute
         ...
